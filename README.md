@@ -26,7 +26,7 @@ Options
 - This script is just for fun, do not use anywhere for serious purpose.
 - Key and data with with "::::"
 
-###Examples :
+### Examples :
 
 ```
 node app.js Hello
