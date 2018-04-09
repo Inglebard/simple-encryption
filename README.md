@@ -57,5 +57,5 @@ styhoe .nhaim::::ite.hioeameitsyhm
 node app.js -f example-dec.txt -d
 WnKh9pkr8juc0zLROV1iDt567APdC4vlZ2HsGXxEaUSbIBJNfQgFqY3wMoTemy::::All■your■base■are■belong■to■us■
 WnKh9pkr8juc0zLROV1iDt567APdC4vlZ2HsGXxEaUSbIBJNfQgFqY3wMoTemy::::my■name■is■mythos■
-styhoe .naim::::my name is mythos
+styhoe .naim::::my name is mythos.
 ```
